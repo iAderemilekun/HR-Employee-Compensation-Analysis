@@ -1,5 +1,5 @@
 
-# HR Employee Compensation and Workforce Analysis
+# Employee Compensation and Workforce Analysis
 
 An independently developed Microsoft Excel data analysis project examining employee compensation, departmental salary distribution and workforce composition.
 
@@ -136,7 +136,7 @@ This project demonstrates practical application of Microsoft Excel in:
 
 | File | Description |
 |:---|:---|
-| `aderemilekun_assignment2.xlsx` | Original Excel analysis workbook |
+| `HR_Compensation_Anaysis.xlsx` | Original Excel analysis workbook  |
 | `README.md` | Project documentation |
 
 ## 8. Conclusion
